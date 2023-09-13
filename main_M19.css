@@ -17,7 +17,7 @@
     
 } /* bloco */
 
-.produtos__produto--imagem { /* elemento */
+.produtos__imagem { /* elemento */
     width: 100%;
 }
 
@@ -30,7 +30,7 @@
     color: gray;
 }
 
-.produtos__produto_em--destaque { /* modificador */
+.produtos__produto--em--destaque { /* modificador */
     border: 2px solid gold;
     padding: 8px;
     background-color: #ffff42;
